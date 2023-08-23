@@ -7,3 +7,11 @@
 //2. resposta: 20 "10" "20"
 
 //3. resposta: horaPorTabralho
+
+
+
+
+//1
+//A.
+//b.
+//C.
