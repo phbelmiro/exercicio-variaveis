@@ -34,7 +34,8 @@
 
 //4
 
-let  = prompt("")
-let  = prompt("Q")
+let minDeAula = prompt("Quantos minutos voce fica em aula?")
+let periodo = prompt("Quantos periodos tem tua escola?")
 
-alert(`${periodo/horas} `)
+alert(`cada periodo da sua escola tem ${minDeAula/periodo} minutos `)
+
